@@ -23,13 +23,13 @@ Like My Work?
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Golang, ReactJS, NodeJS, <br /> PostgreSQL, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/harshit-ima360).
 - 💬 &nbsp; Ask me about anything [here](https://github.com/harshit-ima360/harshit-ima360/issues/2)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: pavangandhi100@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/harshit-ima360/harshit-ima360/blob/master/resume.pdf).
+- 📫 &nbsp; How to reach me: 4harshitsingh@gmail.com.
+<!-- - 📝 &nbsp; Checkout my [Resume](https://github.com/harshit-ima360/harshit-ima360/blob/master/resume.pdf). -->
 
 ### My Absolute Favorites:
 
